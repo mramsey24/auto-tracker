@@ -1,4 +1,4 @@
-package com.mvrsoftware.autotracker;
+package com.mvrsoft.autotracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.mvrsoftware.autotracker;
+package com.mvrsoft.autotracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
